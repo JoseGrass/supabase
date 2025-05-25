@@ -1,10 +1,10 @@
-{
-  "appId": "com.supabase.app",
-  "appName": "proyecto-supabase",
+ {
+  "appId": "com.supebase.app",
+  "appName": "supebase",
   "webDir": "dist",
   "assets": {
     "icon": {
-      "source": "assets/icon-only.png"
+      "source": "assets/icon.png"
     },
     "splash": {
       "source": "assets/splash.png",
